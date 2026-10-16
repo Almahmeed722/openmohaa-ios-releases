@@ -1,0 +1,36 @@
+{
+  "name": "OpenMoHAA iOS",
+  "identifier": "io.github.almahmeed722.openmohaa-ios",
+  "subtitle": "Medal of Honor: Allied Assault for iPhone",
+  "description": "Unofficial iOS port of OpenMoHAA with touch controls. Requires your own copy of the game data.",
+  "iconURL": "https://raw.githubusercontent.com/Almahmeed722/openmohaa-ios-releases/main/icon.png",
+  "website": "https://github.com/Almahmeed722/openmohaa-ios-releases",
+  "apps": [
+    {
+      "name": "OpenMoHAA",
+      "bundleIdentifier": "org.openmohaa.openmohaa",
+      "developerName": "OpenMoHAA (iOS port)",
+      "subtitle": "Allied Assault / Spearhead / Breakthrough engine",
+      "localizedDescription": "OpenMoHAA for iPhone with touch controls, scoreboard button and layout editor. The game files (main, mainta, maintt) are NOT included: copy them from your own copy of the game into the app's Documents folder.",
+      "iconURL": "https://raw.githubusercontent.com/Almahmeed722/openmohaa-ios-releases/main/icon.png",
+      "tintColor": "4a5d23",
+      "versions": [
+        {
+          "version": "0.83.0",
+          "buildVersion": "26",
+          "date": "2026-10-16",
+          "localizedDescription": "Smooth touch overlay, scoreboard button, melee/zoom aim button, hide-chat fix.",
+          "downloadURL": "https://github.com/Almahmeed722/openmohaa-ios-releases/releases/download/v0.83.0-ios.1/OpenMoHAA.ipa",
+          "size": 3970862,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "0.83.0",
+      "versionDate": "2026-10-16",
+      "versionDescription": "Smooth touch overlay, scoreboard button, melee/zoom aim button, hide-chat fix.",
+      "downloadURL": "https://github.com/Almahmeed722/openmohaa-ios-releases/releases/download/v0.83.0-ios.1/OpenMoHAA.ipa",
+      "size": 3970862
+    }
+  ],
+  "news": []
+}
