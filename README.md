@@ -25,3 +25,12 @@ The sound/video are large; copying takes a while.
 
 For the Spearhead / Breakthrough weapons (rifle bash, scopes) create `Documents/launch_args.txt`
 containing `+set com_target_game 2`.
+
+## Server map: Destroyed Village 2
+The community server runs the custom map **Destroyed_Village_2** (by DangerousDougy, redistributable
+with its readme). Download `zzzzzz_destroyed_village_2.zip` from the Releases page, unzip it, and copy
+`zzzzzz_destroyed_Village_2.pk3` into the app's `Documents/main` folder, then fully close and reopen the
+app. Without this file you cannot join the server.
+
+To join: Multiplayer -> Join Internet Game -> Connect to IP Address, and enter the server address
+given by the server host.
